@@ -17,7 +17,7 @@ if __name__ == "__main__":
     network = LYT()
     print(network)
 
-    input = torch.randn(1, 3, 100, 100, requires_grad=False)
+    input = torch.randn(1, 3, 256, 256, requires_grad=False)
     output = network(input)
     print(output.shape)
 
