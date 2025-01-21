@@ -1,5 +1,5 @@
 Citation
-If you use MPRNet, please consider citing:
+If you use Improved Lightweight YUV Attention Network, please consider citing:
 
 @inproceedings{Zamir2021MPRNet,
     title={Low-light Image Enhancement via Improved Lightweight YUV Attention Network},
